@@ -1,0 +1,6 @@
+C:\Users\AR00111194\source\repos\ESBA_MiPrimeraAPP_Ejercicio1\ESBA_MiPrimeraAPP_Ejercicio1\bin\Debug\ESBA_MiPrimeraAPP_Ejercicio1.exe
+C:\Users\AR00111194\source\repos\ESBA_MiPrimeraAPP_Ejercicio1\ESBA_MiPrimeraAPP_Ejercicio1\bin\Debug\ESBA_MiPrimeraAPP_Ejercicio1.pdb
+C:\Users\AR00111194\source\repos\ESBA_MiPrimeraAPP_Ejercicio1\ESBA_MiPrimeraAPP_Ejercicio1\obj\Debug\ESBA_MiPrimeraAPP_Ejercicio1.csprojAssemblyReference.cache
+C:\Users\AR00111194\source\repos\ESBA_MiPrimeraAPP_Ejercicio1\ESBA_MiPrimeraAPP_Ejercicio1\obj\Debug\ESBA_MiPrimeraAPP_Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\AR00111194\source\repos\ESBA_MiPrimeraAPP_Ejercicio1\ESBA_MiPrimeraAPP_Ejercicio1\obj\Debug\ESBA_MiPrimeraAPP_Ejercicio1.exe
+C:\Users\AR00111194\source\repos\ESBA_MiPrimeraAPP_Ejercicio1\ESBA_MiPrimeraAPP_Ejercicio1\obj\Debug\ESBA_MiPrimeraAPP_Ejercicio1.pdb
