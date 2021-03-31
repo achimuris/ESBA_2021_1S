@@ -1,0 +1,6 @@
+C:\Users\AR00111194\source\repos\Ejercicio05-Guia1\Ejercicio05-Guia1\bin\Debug\Ejercicio05-Guia1.exe
+C:\Users\AR00111194\source\repos\Ejercicio05-Guia1\Ejercicio05-Guia1\bin\Debug\Ejercicio05-Guia1.pdb
+C:\Users\AR00111194\source\repos\Ejercicio05-Guia1\Ejercicio05-Guia1\obj\Debug\Ejercicio05-Guia1.csprojAssemblyReference.cache
+C:\Users\AR00111194\source\repos\Ejercicio05-Guia1\Ejercicio05-Guia1\obj\Debug\Ejercicio05-Guia1.csproj.CoreCompileInputs.cache
+C:\Users\AR00111194\source\repos\Ejercicio05-Guia1\Ejercicio05-Guia1\obj\Debug\Ejercicio05-Guia1.exe
+C:\Users\AR00111194\source\repos\Ejercicio05-Guia1\Ejercicio05-Guia1\obj\Debug\Ejercicio05-Guia1.pdb
