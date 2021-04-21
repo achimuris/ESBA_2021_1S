@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Clases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Clases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Clases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clases/1.0.0": {
+      "type": "project",
+      "path": "../Clases/Clases.csproj",
+      "msbuildProject": "../Clases/Clases.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Clases >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\AR00111194\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\AR00111194\\source\\repos\\SueldoDePepe_ESBA_2021\\APP_Desktop\\APP_Desktop.csproj",
+      "projectName": "APP_Desktop",
+      "projectPath": "C:\\Users\\AR00111194\\source\\repos\\SueldoDePepe_ESBA_2021\\APP_Desktop\\APP_Desktop.csproj",
+      "packagesPath": "C:\\Users\\AR00111194\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AR00111194\\source\\repos\\SueldoDePepe_ESBA_2021\\APP_Desktop\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\AR00111194\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\AR00111194\\source\\repos\\SueldoDePepe_ESBA_2021\\Clases\\Clases.csproj": {
+              "projectPath": "C:\\Users\\AR00111194\\source\\repos\\SueldoDePepe_ESBA_2021\\Clases\\Clases.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
