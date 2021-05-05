@@ -1,0 +1,6 @@
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\DAL\bin\Debug\DAL.dll
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\DAL\bin\Debug\DAL.pdb
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\DAL\obj\Debug\DAL.dll
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\DAL\obj\Debug\DAL.pdb

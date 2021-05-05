@@ -1,0 +1,9 @@
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\BLL\bin\Debug\BLL.dll
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\BLL\bin\Debug\BLL.pdb
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\BLL\bin\Debug\DAL.dll
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\BLL\bin\Debug\DAL.pdb
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\BLL\obj\Debug\BLL.dll
+C:\Users\AR00111194\OneDrive - Prosegur Cia. De Seguridad, S.A\Documentos\GitHub\ESBA_2021_1S\Clase07\3_Capas\BLL\obj\Debug\BLL.pdb
