@@ -1,0 +1,6 @@
+C:\Users\AR00111194\source\repos\ParcialTemaA\Logica\bin\Debug\Logica.dll
+C:\Users\AR00111194\source\repos\ParcialTemaA\Logica\bin\Debug\Logica.pdb
+C:\Users\AR00111194\source\repos\ParcialTemaA\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\AR00111194\source\repos\ParcialTemaA\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\AR00111194\source\repos\ParcialTemaA\Logica\obj\Debug\Logica.dll
+C:\Users\AR00111194\source\repos\ParcialTemaA\Logica\obj\Debug\Logica.pdb

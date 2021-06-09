@@ -1,0 +1,14 @@
+C:\Users\AR00111194\source\repos\ParcialTemaA\UI\bin\Debug\UI.exe.config
+C:\Users\AR00111194\source\repos\ParcialTemaA\UI\bin\Debug\UI.exe
+C:\Users\AR00111194\source\repos\ParcialTemaA\UI\bin\Debug\UI.pdb
+C:\Users\AR00111194\source\repos\ParcialTemaA\UI\bin\Debug\Logica.dll
+C:\Users\AR00111194\source\repos\ParcialTemaA\UI\bin\Debug\Logica.pdb
+C:\Users\AR00111194\source\repos\ParcialTemaA\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\AR00111194\source\repos\ParcialTemaA\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\AR00111194\source\repos\ParcialTemaA\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\AR00111194\source\repos\ParcialTemaA\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\AR00111194\source\repos\ParcialTemaA\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\AR00111194\source\repos\ParcialTemaA\UI\obj\Debug\UI.exe
+C:\Users\AR00111194\source\repos\ParcialTemaA\UI\obj\Debug\UI.pdb
+C:\Users\AR00111194\source\repos\ParcialTemaA\UI\obj\Debug\UI.FrmDetalleDeLaFactura.resources
+C:\Users\AR00111194\source\repos\ParcialTemaA\UI\obj\Debug\UI.FrmPrincial.resources
